@@ -1,1 +1,2 @@
-# p31-template
+# zombie-crush-3
+project solution of c31
